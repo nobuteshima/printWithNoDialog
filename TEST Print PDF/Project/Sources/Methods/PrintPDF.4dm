@@ -31,9 +31,3 @@ $h:=Print form:C5($formName; $object)
 CLOSE PRINTING JOB:C996
 
 SHOW ON DISK:C922($file.platformPath)
-
-//If (Is macOS)
-//SET PRINT OPTION(Destination option; 3; $file.platformPath)
-//Else 
-//SET PRINT OPTION(Destination option; 2; $file.platformPath)
-//End if 

@@ -1,0 +1,8 @@
+{
+	"forms": {
+		"PrintDetail": {
+			"timeStamp": "2024-04-10T06:07:00Z",
+			"destination": "detailScreen"
+		}
+	}
+}
